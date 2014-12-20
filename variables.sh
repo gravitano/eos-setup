@@ -1,5 +1,5 @@
 #!/bin/bash
 
-export GIT_USER="sesteva"
-export GIT_EMAIL="santiagoesteva@gmail.com"
+export GIT_USER="gravitano"
+export GIT_EMAIL="gravitano16@gmail.com"
 
